@@ -17,7 +17,33 @@ export default function Home() {
         <code>
           Welcome to a curation of things I've designed!
         </code>
+
+        <div className={styles.grid}>
+          <a className={styles.card}>
+            <img src="/EE-eye.png" />
+          </a>
+          <a className={styles.card}>
+            <img src="/sprout.png" />
+          </a>
+          <a className={styles.card}>
+            <img src="/MB-Westpac.gif" />
+          </a>
+          <a className={styles.card}>
+            <img src="/OAT.png" />
+          </a>
+          <a className={styles.card}>
+            <img src="/ChopperDemoShort.gif" />
+          </a>
+          <a className={styles.card}>
+            <img src="/EE-Logo.png" />
+          </a>
+          <a className={styles.card}>
+            <img src="/FORTUNE.png" />
+          </a>
+        </div>
+
       </main>
+
       <footer>
         <a
           href="https://github.com/juliet-gobran"
@@ -49,7 +75,7 @@ export default function Home() {
         footer {
           width: 100%;
           height: 100px;
-          border-top: 1px solid #eaeaea;
+          border-top: 1px solid #F9EADE;
           display: flex;
           justify-content: center;
           align-items: center;
@@ -67,10 +93,11 @@ export default function Home() {
           padding: 8px;
         }
         code {
-          background: #fafafa;
+          background: #F9EADE;
           border-radius: 5px;
           padding: 0.75rem;
           font-size: 1.1rem;
+          text-align: center;
           font-family:
             Menlo,
             Monaco,
