@@ -32,7 +32,7 @@ export default function Home() {
           <a href="https://github.com/juliet-gobran"
             target="_blank"
             rel="noopener noreferrer" className={styles.card}>
-            <h3>Git Hub ↗</h3>
+            <h3>GitHub ↗</h3>
             <p>Take a look at my projects - including this website!</p>
           </a>
         </div>
