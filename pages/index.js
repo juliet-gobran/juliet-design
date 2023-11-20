@@ -13,11 +13,9 @@ export default function Home() {
         <h1 className={styles.title}>
           Juliet Gobran
         </h1>
-
         <div className={styles.code}>
           <u>Hello World!</u> Welcome to a curation of things I've created!
         </div>
-
         <div className={styles.grid}>
           <a href="/ui" className={styles.card}>
             <h3>UI / UX &rarr;</h3>
@@ -37,9 +35,7 @@ export default function Home() {
             <h3>Git Hub ↗</h3>
             <p>Take a look at my projects - including this website!</p>
           </a>
-
         </div>
-
       </div>
 
       <div className={styles.footer}>
