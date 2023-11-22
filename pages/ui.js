@@ -38,7 +38,7 @@ export default function UI() {
                         </div>
                     </div>
                     <div className={styles.item}>
-                        <img src="Sprout.png" alt="Sprout App" />
+                        <img src="sprout.png" alt="Sprout App" />
                         <div className={styles.text}>
                             <h3>Sprout</h3>
                             <hr />
