@@ -1,1 +1,11 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+#Juliet Gobran - Design Portfolio
+This webiste showcases my skills in:
+- User Interface/Experience Design
+- Graphic Design & Illustration
+- Motion Design
+- `Web Development`
+
+Built using `Next.js`.
+Deployed using `Vercel`.
+
+
