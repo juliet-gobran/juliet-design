@@ -1,5 +1,5 @@
 # Juliet Gobran - Design Portfolio
-This webiste showcases my skills in:
+This website showcases:
 - User Interface/Experience Design
 - Graphic Design & Illustration
 - Motion Design
