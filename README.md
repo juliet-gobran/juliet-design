@@ -1,4 +1,4 @@
-#Juliet Gobran - Design Portfolio
+# Juliet Gobran - Design Portfolio
 This webiste showcases my skills in:
 - User Interface/Experience Design
 - Graphic Design & Illustration
