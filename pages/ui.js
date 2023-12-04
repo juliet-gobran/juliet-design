@@ -38,6 +38,32 @@ export default function UI() {
                         </div>
                     </div>
                     <div className={styles.item}>
+                        <img src="UOW-GRS.png" alt="GRS Website Uplift" />
+                        <div className={styles.text}>
+                            <a
+                                href="GRS-Web_Uplift.pdf"
+                                target="_blank"
+                                rel="noopener noreferrer">
+                                <h3>University of Wollongong - Graduate Research School ↗</h3>
+                            </a>
+                            <hr />
+                            <p>Conducting a audit of the GRS website located dead links & confusing website navigation. In my report of the audit, I make recommendations for changes to the design & prioritize these changes for implementation.  </p>
+                        </div>
+                    </div>
+                    <div className={styles.item}>
+                        <img src="SC-website.png" alt="The Sewing Collective Website" />
+                        <div className={styles.text}>
+                            <a
+                                href="https://the-sewing-collective.com.au/"
+                                target="_blank"
+                                rel="noopener noreferrer">
+                                <h3>The Sewing Collective ↗</h3>
+                            </a>
+                            <hr />
+                            <p>Built using <strong>Squarespace</strong>, The Sewing Collective website showcases the brand in a fun & functional way. Keeping in line with the brand identity, the website maintains the inviting nature of the brand, accompanied with informative copy about what is on offer.</p>
+                        </div>
+                    </div>
+                    <div className={styles.item}>
                         <img src="sprout.png" alt="Sprout App" />
                         <div className={styles.text}>
                             <h3>Sprout</h3>
