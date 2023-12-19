@@ -64,6 +64,19 @@ export default function UI() {
                         </div>
                     </div>
                     <div className={styles.item}>
+                        <img src="YET-web.png" alt="YET Website Page" />
+                        <div className={styles.text}>
+                            <a
+                                href="YET-BrandIdentity.pdf"
+                                target="_blank"
+                                rel="noopener noreferrer">
+                                <h3>YET - Youth Empowerment Tool ↗</h3>
+                            </a>
+                            <hr />
+                            <p>Implementing the brands identity, the website design for YET is <strong>aesthetically inclusive and creative</strong>, reducing the serious tones surrounding the topic of STIs.</p>
+                        </div>
+                    </div>
+                    <div className={styles.item}>
                         <img src="sprout.png" alt="Sprout App" />
                         <div className={styles.text}>
                             <h3>Sprout</h3>

@@ -15,16 +15,16 @@ export default function Graphic() {
                 <div className={styles.code}>Graphic Design & Illustration</div>
                 <div className={styles.blog}>
                     <div className={styles.item}>
-                        <img src="THESEWINGCOLLECTIVE.png" alt="The Sewing Collective Brand Identity" />
+                        <img src="TheSewingCollective-Logo.png" alt="The Sewing Collective Brand Identity" />
                         <div className={styles.text}>
                             <a
-                                href="https://the-sewing-collective.com.au/"
+                                href="TheSewingCollective-BrandIdentity.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer">
                                 <h3>The Sewing Collective ↗</h3>
                             </a>
                             <hr />
-                            <p>With <strong>playful colour & inviting fonts</strong>, the design for this brand aims to invite like-minded creatives to the community.</p>
+                            <p>With <strong>playful colour & inviting fonts</strong>, the design for this brand aims to invite like-minded creatives to the community. Check out the <u><a href="the-sewing-collective.com.au">website</a></u> to see how this brand translates onto a simple e-commerce site.</p>
                         </div>
                     </div>
                     <div className={styles.item}>

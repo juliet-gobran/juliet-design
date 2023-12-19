@@ -36,6 +36,16 @@ export default function Motion() {
                     </div>
                     <div className={styles.item}>
                         <video controls autoPlay muted width="100%">
+                            <source src="YET-IN-MOTION.mp4" type="video/mp4" />
+                        </video>
+                        <div className={styles.text}>
+                            <h3>YET - Youth Empowerment Tool</h3>
+                            <hr />
+                            <p><strong>Creating conversations and empowering youth</strong>, this promotional video aims to make information accessible. </p>
+                        </div>
+                    </div>
+                    <div className={styles.item}>
+                        <video controls autoPlay muted width="100%">
                             <source src="EE-Animation.mp4" type="video/mp4" />
                         </video>
                         <div className={styles.text}>

@@ -14,7 +14,7 @@ export default function Home() {
           Juliet Gobran
         </h1>
         <div className={styles.code}>
-          <u>Hello World!</u> Welcome to a curation of things I've created!
+          <a href="https://my.spline.design/room-bb19795e246187473b09c9bb8595e728/">Hello World!</a> Welcome to a curation of things I've created!
         </div>
         <div className={styles.grid}>
           <a href="/ui" className={styles.card}>
