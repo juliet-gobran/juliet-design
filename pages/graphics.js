@@ -28,6 +28,19 @@ export default function Graphic() {
                         </div>
                     </div>
                     <div className={styles.item}>
+                        <img src="Blumen.png" alt="Blumen Brand Identity" />
+                        <div className={styles.text}>
+                            <a
+                                href="Blumen-BrandIdentity.pdf"
+                                target="_blank"
+                                rel="noopener noreferrer">
+                                <h3>Blumen ↗</h3>
+                            </a>
+                            <hr />
+                            <p>Mirroring the heart of the woman behind the brand, this design brings together <strong>nature & nuture</strong> through creative illustration and calming colours.</p>
+                        </div>
+                    </div>
+                    <div className={styles.item}>
                         <img src="EE.png" alt="Elicit Era - Branding" />
                         <div className={styles.text}>
                             <h3>Elicit Era</h3>
