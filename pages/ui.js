@@ -47,7 +47,7 @@ export default function UI() {
                                 <h3>University of Wollongong - Graduate Research School ↗</h3>
                             </a>
                             <hr />
-                            <p>Conducting a audit of the GRS website located dead links & confusing website navigation. In my report of the audit, I make recommendations for changes to the design & prioritize these changes for implementation.  </p>
+                            <p>Conducting an audit of the GRS website located dead links & confusing website navigation. In my report of the audit, I make recommendations for changes to the design & prioritize these changes for implementation.  </p>
                         </div>
                     </div>
                     <div className={styles.item}>
