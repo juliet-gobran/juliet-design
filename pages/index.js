@@ -9,12 +9,45 @@ export default function Home() {
         <link rel="icon" href="memoji.svg" />
       </Head>
 
+      <div className={styles.navbar}>
+        <a
+          className={styles.navItem}
+          href="/ui"
+        >
+          UX
+        </a>
+        <a
+          className={styles.navItem}
+          href="/graphics"
+        >
+          Graphic
+        </a>
+        <a
+          className={styles.navItem}
+          href="/motion"
+        >
+          Motion
+        </a>
+        <a
+          href="https://www.linkedin.com/in/juliet-gobran/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src="/linkedin.svg" alt="Linkedin Logo" className={styles.logo} />
+        </a>
+      </div>
+
       <div className={styles.main}>
         <h1 className={styles.title}>
           Juliet Gobran
         </h1>
         <div className={styles.code}>
           <a href="https://my.spline.design/room-bb19795e246187473b09c9bb8595e728/">Hello World!</a> Discover my creations in design, motion & development!
+        </div>
+        <div className={styles.videoContainer}>
+          <video controls autoPlay muted width="100%">
+            <source src="JulietGobran-2024_small2.mp4" type="video/mp4" />
+          </video>
         </div>
         <div className={styles.grid}>
           <a href="/ui" className={styles.card}>
@@ -40,12 +73,12 @@ export default function Home() {
 
       <div className={styles.footer}>
         <a
-          href="https://www.linkedin.com/in/juliet-gobran/"
+          className={styles.navItem}
+          href="JulietGobran-CV-NOV-2024-compressed.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/linkedin.svg" alt="Linkedin Logo" className={styles.logo} />
-          {' '}Connect with me
+          View my resume
         </a>
       </div>
     </div>
