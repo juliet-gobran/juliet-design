@@ -6,6 +6,11 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Juliet Gobran</title>
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Juliet gobran - UX Engineer" />
+        <meta property="og:url" content="https://juliet-gobran.vercel.app/" />
+        <meta property="og:image" content="Process.png" />
+        <meta property="og:description" content="Discover my creations in design, motion & development!" />
         <link rel="icon" href="memoji.svg" />
       </Head>
 
