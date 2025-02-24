@@ -15,6 +15,18 @@ export default function UI() {
                 <div className={styles.code}>UI / UX</div>
                 <div className={styles.blog}>
                     <div className={styles.item}>
+                        <img src="Zetta.png" alt="Zetta Website" />
+                        <div className={styles.text}>
+                            <a href="https://www.zetta.com.au/"
+                                target="_blank"
+                                rel="noopener noreferrer">
+                                <h3>Zetta ↗</h3>
+                            </a>
+                            <hr />
+                            <p>Redesigning this website, I created a <strong>core visual framework </strong>that reflects the brands professionalism and expertise. I prioritised responsive design, to give equal experience across platforms. Completing this project whilst working for Digital Hitmen, I worked alongside the SEO experts to achieve the clients goals.</p>
+                        </div>
+                    </div>
+                    <div className={styles.item}>
                         <img src="WestpacApp.png" alt="Westpac Banking App" />
                         <div className={styles.text}>
                             <a href="https://www.westpac.com.au/personal-banking/online-banking/ways-to-bank/mobile-banking/?cid=wc:EDB:TRANS-H2_2007:sem:goog:_westpac%20banking%20app_e:choi:bra&gad_source=1&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMohEJCYf2tmSnxk5Xhy4lZmQuAJOK7vWI79D08nAc_inemU7VQDaegaAgd8EALw_wcB&gclsrc=aw.ds"
